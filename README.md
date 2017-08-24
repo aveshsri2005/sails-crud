@@ -22,7 +22,8 @@ $ npm install sails-mysql
 ```
 
 
-#Create user table in your database  
+##Create user table in your database  
+```sh
 
 CREATE TABLE IF NOT EXISTS `user` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
@@ -47,11 +48,11 @@ CREATE TABLE IF NOT EXISTS `user` (
 	    password: 'root',
 	    database: 'sailsproject'
 	  }
-
+```
 
 #All set, Run application
+```sh
 $ sails lift
-
 
 
 **Action URL's:**
@@ -60,4 +61,6 @@ $ sails lift
         -> List Users    :  http://localhost:1337/user
         -> View User     :  http://localhost:1337/user/show/{$userId}
         -> Delete User   :  http://localhost:1337/user/delete/{$userId}
+
+```
 
