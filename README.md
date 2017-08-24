@@ -1,4 +1,4 @@
-# sails-crud
+# Sails-CRUD Operations
 Example performing CRUD operations in Sails.js using MySQL
 
 
@@ -14,7 +14,7 @@ $ npm install
 ```
 
 
-# Get the latest stable release of Sails
+## Get the latest stable release of Sails
 $ npm install sails -g
 ```
 
@@ -26,10 +26,10 @@ $ npm install sails-mysql
 
 ##All set, Run application
 $ sails lift
+```
 
 
-
-#Action URL's:
+##Action URL's:
 
         -> Add User      :  http://localhost:1337/user/new
         -> List Users    :  http://localhost:1337/user
