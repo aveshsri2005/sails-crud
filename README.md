@@ -4,7 +4,7 @@ Example performing CRUD operations in Sails.js using MySQL
 
 ## Installation &nbsp;
 **With [node installed](http://nodejs.org/en/download):**
-```sh
+```
 
 
 ## Get started:
@@ -21,7 +21,7 @@ $ npm install sails -g
 $ npm install sails-mysql
 ```
 
-#All set, Run application
+##All set, Run application
 $ sails lift
 
 
