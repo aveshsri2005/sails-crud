@@ -15,9 +15,9 @@ $ npm install
 
 # Get the latest stable release of Sails
 $ npm install sails -g
-```
+```sh
 
-# Install MySQL adapter for Waterline ORM
+## Install MySQL adapter for Waterline ORM
 $ npm install sails-mysql
 ```
 
