@@ -15,7 +15,7 @@ $ npm install
 
 # Get the latest stable release of Sails
 $ npm install sails -g
-```sh
+
 
 ## Install MySQL adapter for Waterline ORM
 $ npm install sails-mysql
@@ -50,7 +50,7 @@ CREATE TABLE IF NOT EXISTS `user` (
 	  }
 ```
 
-#All set, Run application
+##All set, Run application
 ```sh
 $ sails lift
 
