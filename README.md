@@ -7,7 +7,7 @@ Example performing CRUD operations in Sails.js using MySQL
 ```sh
 
 
-### Get started:
+## Get started:
 $ git clone git@github.com:aveshsri2005/sails-crud.git
 $ cd sails-crud
 $ npm install
@@ -17,7 +17,7 @@ $ npm install
 $ npm install sails -g
 ```
 
-# Install MySQL adapter for the Sails framework and Waterline ORM
+## Install MySQL adapter for the Sails framework and Waterline ORM
 $ npm install sails-mysql
 ```
 
